@@ -1,0 +1,6 @@
+C:\Users\boehm\source\repos\Hue_01\Hue_01\obj\Debug\netcoreapp3.0\Hue_01.csprojAssemblyReference.cache
+C:\Users\boehm\source\repos\Hue_01\Hue_01\obj\Debug\netcoreapp3.0\staticwebassets\Hue_01.StaticWebAssets.Manifest.cache
+C:\Users\boehm\source\repos\Hue_01\Hue_01\obj\Debug\netcoreapp3.0\staticwebassets\Hue_01.StaticWebAssets.xml
+C:\Users\boehm\source\repos\Hue_01\Hue_01\obj\Debug\netcoreapp3.0\Hue_01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\boehm\source\repos\Hue_01\Hue_01\obj\Debug\netcoreapp3.0\Hue_01.AssemblyInfoInputs.cache
+C:\Users\boehm\source\repos\Hue_01\Hue_01\obj\Debug\netcoreapp3.0\Hue_01.AssemblyInfo.cs
